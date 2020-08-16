@@ -1,7 +1,7 @@
 # Futebol de robô
 O projeto consiste numa simulação onde a trajetória de uma bola (pré-definida) é dada e o robô deve calcular a menor distância/tempo para interceptação.
 
-*Obs: * Para a execução do projeto é necessária a instalação das bibliotecas vPython, Sympy e Matplotlib
+**Obs:** Para a execução do projeto é necessária a instalação das bibliotecas vPython, Sympy e Matplotlib
 
 ## Inserção das coordenadas do robô no campo
 ![prt8](https://user-images.githubusercontent.com/56837996/89851819-c6191800-db63-11ea-8348-9881eb534c5e.JPG)
